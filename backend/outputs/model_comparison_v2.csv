@@ -1,0 +1,7 @@
+model,test_wape
+Naive (lag-1),31.763654419066533
+Seasonal naive (lag-7),30.377358490566035
+Moving average (7-day),23.388282025819265
+"XGBoost, absolute features",22.84388001317893
+"XGBoost, ratio target",22.155900963514462
+Moving average (30-day),22.062098642833497

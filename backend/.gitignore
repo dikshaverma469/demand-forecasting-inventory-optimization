@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/DataCoSupplyChainDataset.csv
+data/DescriptionDataCoSupplyChain.csv
+# Local login data (never commit)
+data/users.db
+data/.jwt_secret

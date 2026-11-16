@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Node
+node_modules/
+dist/
+
+# Local files and secrets
+backend/data/users.db
+backend/data/.jwt_secret
+backend/.env
+
+# Mac system files
+.DS_Store
+__MACOSX/
+
+# Zip files
+*.zip
+demand-forecast/
